@@ -48,8 +48,6 @@ Aqui está um passo a passo simples para rodar o sistema de controle de multas:
 
 -------------------------------------------------------------------------------------------------------------
 
-Este guia deve facilitar o uso do sistema mesmo para iniciantes. Se precisar de ajuda com algum passo, avise!
-
 ## 🎯 Objetivo
 
 O objetivo é implementar um sistema funcional e modular, utilizando conceitos avançados de programação orientada a objetos, incluindo:
