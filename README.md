@@ -15,7 +15,7 @@ Aqui está um passo a passo simples para rodar o sistema de controle de multas:
 
 -------------------------------------------------------------------------------------------------------------
 
-### **Como Rodar o Sistema de Controle de Multas**
+## ⏯ **Como Rodar o Sistema de Controle de Multas**
 
 1. **Baixe e instale uma IDE Java**
    - Recomendamos o [Eclipse](https://www.eclipse.org/downloads/).
